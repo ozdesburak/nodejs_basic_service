@@ -6,7 +6,7 @@ docker pull mongo
 ## Getting Started
 ```bash
 # clone the repo
-https://github.com/ozdesburak/rxjsExample-1--Backend
+https://github.com/ozdesburak/rxjsExample-1--Backend.git
 
 # cd into repo
 cd rxjsExample-1--Backend
