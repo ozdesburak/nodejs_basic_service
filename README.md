@@ -15,7 +15,7 @@ cd rxjsExample-1--Backend
 npm install
 
 # docker dependencies
- docker pull mongo
+ docker pull mongo, docker run port:27017
 
 # start the server
 npm start
